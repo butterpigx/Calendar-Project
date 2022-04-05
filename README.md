@@ -1,6 +1,6 @@
 # Calendar Project
 
-**This Code is no longer being updated/maintained.**
+**This code is no longer being updated/maintained.**
 
 The java file requires the events text file or it will throw a ```FileNotFoundException```.
 
